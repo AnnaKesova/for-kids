@@ -1,0 +1,8 @@
+.title {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  color: var(--text-black);
+  text-align: center;
+  margin: 0 auto 50px;
+}
