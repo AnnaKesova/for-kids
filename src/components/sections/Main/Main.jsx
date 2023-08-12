@@ -1,5 +1,5 @@
 import styles from "./Main.module.css";
-import schoolPhoto from "../../../images/schoolPhoto.png";
+import schoolPhoto from "../../../images/schoolphoto.png";
 import now from "../../../images/nowmy.png";
 import Title from "../../UI/Title/Title"
 

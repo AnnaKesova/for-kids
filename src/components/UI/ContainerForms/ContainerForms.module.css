@@ -1,0 +1,8 @@
+.container {
+  box-sizing: border-box;
+  padding: 32px;
+  min-width: 925px;
+  display: flex;
+  justify-content: center;
+  margin: 200px auto;
+}
